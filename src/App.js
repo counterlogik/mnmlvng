@@ -1,29 +1,33 @@
 import React, { Component } from 'react';
 import './App.css';
+import './ionicons.css';
 
-let jsonData = require('./mnmlvng.json');
-jsonData.replace("": "", '');
-class itemDetail extends Component {
+class ItemDetail extends Component {
   render() {
     return <div className="itemDetail">{this.props.itemDescription}</div>;
   }
 }
 
-class App extends Component {
-  constructor(props) {
-    super(props);
-    this.itemDescription = 'Shirt (medium)';
+class ItemImage extends Component {
+  render() {
+    return <div className="itemImage"><img src={this.props.itemImage} alt={this.props.category}></img></div>;
   }
+}
 
+const LinkIcon = () => (
+    <div className="LinkIcon"> </div>
+);
+
+class App extends Component {
   render() {
     return (
       <div className="App">
         <div className="itemCard">
-          <itemDetail itemDescription={this.props.itemDescription} />
-          <div className="itemDetail">Urban Outfitters Stevens Cross-Dyed Button-Down</div>
-          <div className="itemDetail">Owned</div>
-          <div className="itemDetail">living room; closet</div>
-          <div className="itemDetail">This is the first medium size shirt I purchased after losing over 55 lbs in 2016.</div>
+          <ItemImage itemImage={this.props.image} />
+          <ItemDetail prefixIcon={this.props.category} itemDescription={`Button-down shirt (medium)`} />
+          <ItemDetail prefixIcon={LinkIcon} itemDescription={`Urban Outfitters Stevens Cross-Dyed Button-Down`} />
+          <ItemDetail prefixIcon="" itemDescription={`living room; closet`} />
+          <ItemDetail itemDescription={`This is the first medium size shirt I purchased after losing over 55 lbs in 2016.`} />
         </div>
       </div>
     );
