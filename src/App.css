@@ -108,6 +108,27 @@ ol, ul {
   background-position: center 16%;
 }
 
+.EditButton {
+  position: relative;
+  background: #3EACA8;
+  border-radius: 32px;
+  width: 64px;
+  height: 64px;
+  top: -40px;
+  float: right;
+  margin-right: 8px;
+  font-size: 2em;
+}
+
+.EditButton i {
+  position: relative;
+  top: 8px;
+}
+
+.EditButton.isUnderEdit {
+  background: #F05053;
+}
+
 
 
 
@@ -121,7 +142,7 @@ ol, ul {
 
 */
 
-.cardShadow {
+.materialShadow {
   box-shadow: 0 1.5px 4px rgba(0, 0, 0, 0.24), 0 1.5px 6px rgba(0, 0, 0, 0.12);
 }
 

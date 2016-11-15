@@ -4,6 +4,7 @@ import './ionicons.css';
 import shirtPicture from './img/uo_stevens_shirt.jpg';
 //import shirtData from './mnmlvng.json';
 
+// Load item data from this object. This object loading will be replaced by data pulled from a persistent database eventually.
 const shirtData = {
   'Description': 'Shirt (medium)',
   'Category': 'Wardrobe',
@@ -18,6 +19,7 @@ const shirtData = {
 const categoryToIconCharacterMap = {
   'Wardrobe': 'tshirt-outline'
 };
+
 
 class ItemDetail extends Component {
   render() {
@@ -42,8 +44,6 @@ class ItemImage extends Component {
   }
 }
 
-
-
 class PrefixIcon extends Component {
     render() {
       return <div className="PrefixIcon"><i className={'icon ion-'+this.props.icon} /> </div>;
@@ -51,18 +51,54 @@ class PrefixIcon extends Component {
 }
 
 class ItemCard extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      details: shirtData,
+      isUnderEdit: false,
+    };
+
+    this.handleEditClick = this.handleEditClick.bind(this);
+  }
+
+  handleEditClick() {
+    this.setState({
+      isUnderEdit: !this.state.isUnderEdit
+    });
+  }
+
   render() {
     return <div className="ItemCard">
-      <ItemImage image={shirtPicture} category={this.props.details.Category} />
+      <ItemImage image={shirtPicture} category={this.state.details.Category} />
       <div className="itemContent">
-        <ItemDetail category={this.props.details.Category} description={this.props.details.Description} addClasses="title" />
-        <ItemDetail icon={'link'} description={this.props.details.Model} url={this.props.details.Link} />
-        <ItemDetail icon={'android-locate'} description={this.props.details.Location} />
-        <ItemDetail description={this.props.details.Notes} addClasses="notes" />
+        <EditButton onEditClick={this.handleEditClick} isUnderEdit={this.state.isUnderEdit} />
+        <ItemDetail category={this.state.details.Category} description={this.state.details.Description} addClasses="title" />
+        <ItemDetail icon={'link'} description={this.state.details.Model} url={this.state.details.Link} />
+        <ItemDetail icon={'android-locate'} description={this.state.details.Location} />
+        <ItemDetail description={this.state.details.Notes} addClasses="notes" />
       </div>
     </div>;
   }
 }
+
+class EditButton extends Component {
+  constructor(props) {
+    super(props);
+    this.handleClick = this.handleClick.bind(this);
+  }
+
+  handleClick() {
+    this.props.onEditClick();
+  }
+
+  render() {
+    let addClasses = this.props.isUnderEdit ? ' isUnderEdit' : '';
+    return <div className={'EditButton materialShadow' + addClasses} onClick={this.handleClick}>
+      <i className={'icon ion-edit'} />
+    </div>;
+  }
+}
+
 
 class App extends Component {
   render() {
