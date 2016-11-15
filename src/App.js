@@ -68,9 +68,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="container">
-          <ItemCard details={shirtData} />
-        </div>
+        <ItemCard details={shirtData} />
       </div>
     );
   }
