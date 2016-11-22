@@ -23,12 +23,19 @@ const categoryToIconCharacterMap = {
 
 class ItemDetail extends Component {
   render() {
-    console.log(categoryToIconCharacterMap[this.props.category]);
     let icon = this.props.icon || categoryToIconCharacterMap[this.props.category] || '';
     let addClasses = this.props.addClasses ? ' ' + this.props.addClasses : '';
+    let inputType = this.props.inputType || 'text';
     return <div className="ItemDetail" href={this.props.link}>
       {icon && <PrefixIcon icon={icon} />}
-      <input type="text" className={'entryText' + addClasses} title={this.props.url} value={this.props.description} onChange={this.props.formUpdate} disabled={this.props.elementDisabled} />
+      <input
+        type={inputType}
+        className={'entryText' + addClasses}
+        title={this.props.link}
+        value={this.props.description}
+        onChange={this.props.formUpdate}
+        disabled={this.props.elementDisabled}
+      />
     </div>;
   }
 }
@@ -59,9 +66,16 @@ class ItemCard extends Component {
       location: shirtData.Location,
       notes: shirtData.Notes,
       isUnderEdit: false,
+      valuesBeforeEditing: {
+        description: shirtData.Description,
+        model: shirtData.Model,
+        location: shirtData.Location,
+        notes: shirtData.Notes,
+      }
     };
 
     this.handleEditClick = this.handleEditClick.bind(this);
+    this.handleEditSubmitClick = this.handleEditSubmitClick.bind(this);
     this.handleDescriptionChange = this.handleDescriptionChange.bind(this);
     this.handleModelChange = this.handleModelChange.bind(this);
     this.handleLocationChange = this.handleLocationChange.bind(this);
@@ -70,6 +84,27 @@ class ItemCard extends Component {
   }
 
   handleEditClick() {
+    if(!this.state.isUnderEdit) {
+      this.setState({valuesBeforeEditing: {
+          description: this.state.description,
+          model: this.state.model,
+          location: this.state.location,
+          notes: this.state.notes
+        },
+        isUnderEdit: !this.state.isUnderEdit
+      });
+    } else {
+      this.setState({
+        description: this.state.valuesBeforeEditing.description,
+        model: this.state.valuesBeforeEditing.model,
+        location: this.state.valuesBeforeEditing.location,
+        notes: this.state.valuesBeforeEditing.notes,
+        isUnderEdit: !this.state.isUnderEdit
+      });
+    }
+  }
+
+  handleEditSubmitClick() {
     this.setState({
       isUnderEdit: !this.state.isUnderEdit
     });
@@ -100,12 +135,12 @@ class ItemCard extends Component {
     return <div className="ItemCard">
       <ItemImage image={shirtPicture} category={this.state.Category} />
       <div className="itemContent">
-        <EditButton onEditClick={this.handleEditClick} isUnderEdit={this.state.isUnderEdit} />
+        <EditButton onEditClick={this.handleEditClick} onEditSubmitClick={this.handleEditSubmitClick} isUnderEdit={this.state.isUnderEdit} />
         <form/* onSubmit={this.handleSubmit}*/>
-          <ItemDetail category={this.state.category} detailType="Description" description={this.state.description} addClasses="title" formUpdate={this.handleDescriptionChange} elementDisabled={!this.state.isUnderEdit} />
-          <ItemDetail icon={'link'} detailType="Model" description={this.state.model} url={this.state.link} formUpdate={this.handleModelChange} elementDisabled={!this.state.isUnderEdit} />
-          <ItemDetail icon={'android-locate'} detailType="Location" description={this.state.location} formUpdate={this.handleLocationChange} elementDisabled={!this.state.isUnderEdit} />
-          <ItemDetail detailType="Notes" description={this.state.notes} addClasses="notes" formUpdate={this.handleNotesChange} elementDisabled={!this.state.isUnderEdit} />
+          <ItemDetail category={this.state.category} description={this.state.description} addClasses="title" formUpdate={this.handleDescriptionChange} elementDisabled={!this.state.isUnderEdit} />
+          <ItemDetail icon={'link'} description={this.state.model} url={this.state.link} formUpdate={this.handleModelChange} elementDisabled={!this.state.isUnderEdit} />
+          <ItemDetail icon={'android-locate'} description={this.state.location} formUpdate={this.handleLocationChange} elementDisabled={!this.state.isUnderEdit} />
+          <ItemDetail inputType="textarea" description={this.state.notes} addClasses="notes" formUpdate={this.handleNotesChange} elementDisabled={!this.state.isUnderEdit} />
         
         </form>
       </div>
@@ -117,10 +152,15 @@ class EditButton extends Component {
   constructor(props) {
     super(props);
     this.handleClick = this.handleClick.bind(this);
+    this.handleEditSubmitClick = this.handleEditSubmitClick.bind(this);
   }
 
   handleClick() {
     this.props.onEditClick();
+  }
+
+  handleEditSubmitClick() {
+    this.props.onEditSubmitClick();
   }
 
   render() {
@@ -130,7 +170,7 @@ class EditButton extends Component {
       <div className={'EditButton editCancel materialShadow' + addClasses} onClick={this.handleClick}>
         <i className={'icon ' + editButtonIconName} />
       </div>
-      <div className={'EditButton editSubmit materialShadow' + addClasses} >
+      <div className={'EditButton editSubmit materialShadow' + addClasses} onClick={this.handleEditSubmitClick}>
         <i className={'icon ion-checkmark'} />
       </div>
     </div>;
