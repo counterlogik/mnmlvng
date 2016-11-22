@@ -28,9 +28,7 @@ class ItemDetail extends Component {
     let addClasses = this.props.addClasses ? ' ' + this.props.addClasses : '';
     return <div className="ItemDetail" href={this.props.link}>
       {icon && <PrefixIcon icon={icon} />}
-      <div className={'entryText' + addClasses} title={this.props.url}>
-        {this.props.description}
-      </div>
+      <input type="text" className={'entryText' + addClasses} title={this.props.url} value={this.props.description} onChange={this.props.formUpdate} disabled={this.props.elementDisabled} />
     </div>;
   }
 }
@@ -54,11 +52,21 @@ class ItemCard extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      details: shirtData,
+      category: shirtData.Category,
+      description: shirtData.Description,
+      link: shirtData.Link,
+      model: shirtData.Model,
+      location: shirtData.Location,
+      notes: shirtData.Notes,
       isUnderEdit: false,
     };
 
     this.handleEditClick = this.handleEditClick.bind(this);
+    this.handleDescriptionChange = this.handleDescriptionChange.bind(this);
+    this.handleModelChange = this.handleModelChange.bind(this);
+    this.handleLocationChange = this.handleLocationChange.bind(this);
+    this.handleNotesChange = this.handleNotesChange.bind(this);
+    /*this.handleEditClick = this.handleSubmit.bind(this);*/
   }
 
   handleEditClick() {
@@ -67,15 +75,39 @@ class ItemCard extends Component {
     });
   }
 
+  handleDescriptionChange(event) {
+    this.setState({description: event.target.value});
+  }
+
+  handleModelChange(event) {
+    this.setState({model: event.target.value});
+  }
+
+  handleLocationChange(event) {
+    this.setState({location: event.target.value});
+  }
+
+  handleNotesChange(event) {
+    this.setState({notes: event.target.value});
+  }
+/*
+  handleSubmit(event) {
+    console.log('Item details are: ' + this.state.value);
+    event.preventDefault();
+  }
+*/
   render() {
     return <div className="ItemCard">
-      <ItemImage image={shirtPicture} category={this.state.details.Category} />
+      <ItemImage image={shirtPicture} category={this.state.Category} />
       <div className="itemContent">
         <EditButton onEditClick={this.handleEditClick} isUnderEdit={this.state.isUnderEdit} />
-        <ItemDetail category={this.state.details.Category} description={this.state.details.Description} addClasses="title" />
-        <ItemDetail icon={'link'} description={this.state.details.Model} url={this.state.details.Link} />
-        <ItemDetail icon={'android-locate'} description={this.state.details.Location} />
-        <ItemDetail description={this.state.details.Notes} addClasses="notes" />
+        <form/* onSubmit={this.handleSubmit}*/>
+          <ItemDetail category={this.state.category} detailType="Description" description={this.state.description} addClasses="title" formUpdate={this.handleDescriptionChange} elementDisabled={!this.state.isUnderEdit} />
+          <ItemDetail icon={'link'} detailType="Model" description={this.state.model} url={this.state.link} formUpdate={this.handleModelChange} elementDisabled={!this.state.isUnderEdit} />
+          <ItemDetail icon={'android-locate'} detailType="Location" description={this.state.location} formUpdate={this.handleLocationChange} elementDisabled={!this.state.isUnderEdit} />
+          <ItemDetail detailType="Notes" description={this.state.notes} addClasses="notes" formUpdate={this.handleNotesChange} elementDisabled={!this.state.isUnderEdit} />
+        
+        </form>
       </div>
     </div>;
   }
@@ -93,8 +125,14 @@ class EditButton extends Component {
 
   render() {
     let addClasses = this.props.isUnderEdit ? ' isUnderEdit' : '';
-    return <div className={'EditButton materialShadow' + addClasses} onClick={this.handleClick}>
-      <i className={'icon ion-edit'} />
+    let editButtonIconName = this.props.isUnderEdit ? 'ion-close' : 'ion-edit';
+    return <div>
+      <div className={'EditButton editCancel materialShadow' + addClasses} onClick={this.handleClick}>
+        <i className={'icon ' + editButtonIconName} />
+      </div>
+      <div className={'EditButton editSubmit materialShadow' + addClasses} >
+        <i className={'icon ion-checkmark'} />
+      </div>
     </div>;
   }
 }

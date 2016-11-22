@@ -38,7 +38,29 @@ ol, ul {
   list-style: none;
 }
 
+input, textarea, keygen, select, button {
+  border: 0px solid transparent;
+  font-family: 'Open Sans', 'Helvetica', sans-serif;
+  background-color: transparent;
+  user-select: all;
+}
 
+textarea:disabled, input:not([type]):disabled, input[type="color" i]:disabled, input[type="date" i]:disabled, input[type="datetime" i]:disabled, input[type="datetime-local" i]:disabled, input[type="email" i]:disabled, input[type="month" i]:disabled, input[type="password" i]:disabled, input[type="number" i]:disabled, input[type="search" i]:disabled, input[type="tel" i]:disabled, input[type="text" i]:disabled, input[type="time" i]:disabled, input[type="url" i]:disabled, input[type="week" i]:disabled {
+  background-color: transparent;
+}
+
+input:disabled, textarea:disabled {
+  color: rgb(0, 0, 0);
+}
+
+input[type=text]:focus, textarea:focus {
+  box-shadow: 0 0 0px rgba(81, 203, 238, 1);
+  padding: 0px;
+  margin: 0px;
+  border: 0px solid rgba(81, 203, 238, 1);
+  outline-offset: 0px;
+  outline: 0px;
+}
 
 
 /*
@@ -120,12 +142,24 @@ ol, ul {
   font-size: 2em;
 }
 
+.EditButton.editSubmit {
+  margin-right: 16px;
+}
+
+.editSubmit {
+  display: none;
+}
+
+.editSubmit.isUnderEdit {
+  display: block;
+}
+
 .EditButton i {
   position: relative;
   top: 8px;
 }
 
-.EditButton.isUnderEdit {
+.editCancel.isUnderEdit {
   background: #F05053;
 }
 
