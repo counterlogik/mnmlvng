@@ -1,0 +1,1462 @@
+[
+  {
+    "Description": "MIDI keyboard",
+    "Category": "Audio",
+    "Model": "M-Audio Oxygen-49",
+    "Link": "https://www.amazon.com/M-Audio-Oxygen-49-Keyboard-Controller/dp/B0031SCV46",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Keyboard stand",
+    "Category": "Audio",
+    "Model": "On-Stage Stands Single-Braced",
+    "Link": "http://www.guitarcenter.com/On-Stage-Stands/KS7190-Single-braced-Stand.gc",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "DJ mixer",
+    "Category": "Audio",
+    "Model": "Allen&Heath X:ONE 22",
+    "Link": "http://www.guitarcenter.com/Used/Allen-Heath/Xone-22-DJ-Mixer-112638515.gc",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; bookshelf",
+    "Notes": "replace with X:ONE 92"
+  },
+  {
+    "Description": "Audio decks (pair)",
+    "Category": "Audio",
+    "Model": "Pioneer XDJ-1000",
+    "Link": "http://www.guitarcenter.com/Pioneer/XDJ-1000-Performance-Multi-Player.gc",
+    "Count": 2,
+    "Spark": "Love",
+    "Location": "living room; bookshelf",
+    "Notes": ""
+  },
+  {
+    "Description": "Headphones",
+    "Category": "Audio",
+    "Model": "Sennheiser HD 25-1 ii",
+    "Link": "http://www.guitarcenter.com/Sennheiser/HD-25-On-Ear-DJ-Headphones.gc",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "living room; bookshelf",
+    "Notes": ""
+  },
+  {
+    "Description": "Microfiber cloths",
+    "Category": "Cleaning",
+    "Model": "AmazonBasics Microfiber Cleaning Cloth",
+    "Link": "https://www.amazon.com/gp/product/B009FUF6DM/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1",
+    "Count": 20,
+    "Spark": "Like",
+    "Location": "kitchen; above microwave cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Toilet bowl brush",
+    "Category": "Cleaning",
+    "Model": "Lysol Bowl Brush with Rim Extension and Caddy",
+    "Link": "https://www.amazon.com/gp/product/B004I2EONK/ref=oh_aui_detailpage_o07_s01?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "bathroom; laundry cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Trash can",
+    "Category": "Cleaning",
+    "Model": "simplehuman In-Cabinet (10 liters)",
+    "Link": "https://www.amazon.com/gp/product/B00DMMW22W/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; sink cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Plastic bag container",
+    "Category": "Cleaning",
+    "Model": "simplehuman Wall Mount Grocery Bag Dispenser",
+    "Link": "https://www.amazon.com/gp/product/B007ZF638G/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "laundry closet; wall",
+    "Notes": ""
+  },
+  {
+    "Description": "Trash can",
+    "Category": "Cleaning",
+    "Model": "simplehuman Stainless Steel (10 liters)",
+    "Link": "https://www.amazon.com/gp/product/B00E58O57M/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1",
+    "Count": 2,
+    "Spark": "Love",
+    "Location": "bathroom; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Dust broom",
+    "Category": "Cleaning",
+    "Model": "Wayclean Wide Angle Broom",
+    "Link": "http://casabella.com/wayclean-wide-angle-broom/",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "laundry closet; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Floor mop",
+    "Category": "Cleaning",
+    "Model": "O-Cedar Dual-Action Flip Mop",
+    "Link": "https://www.walmart.com/ip/24548709?u1=&oid=223073.1&wmlspartner=7m8EnekPF5E&sourceid=21159816442172405223&affillinktype=10&veh=aff",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "laundry closet; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Spray bottle",
+    "Category": "Cleaning",
+    "Model": "The Bottle Crew Plastic Bottle with Spray Nozzle",
+    "Link": "https://www.walmart.com/ip/The-Bottle-Crew-All-Purpose-Spray-Bottle-32-oz/22211163",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "kitchen; left top tall cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Iron",
+    "Category": "Cleaning",
+    "Model": "T-fal Ultraglide Easycord Steam Iron",
+    "Link": "https://www.amazon.com/T-fal-Ultraglide-Resistant-Non-Stick-Soleplate/dp/B00HG84YQU",
+    "Count": 1,
+    "Spark": "Need",
+    "Location": "bathroom; closet",
+    "Notes": ""
+  },
+  {
+    "Description": "Vaccum",
+    "Category": "Cleaning",
+    "Model": "Sanitaire Quick Kleen (840 watts)",
+    "Link": "https://www.amazon.com/Sanitaire-SC677D-Cleaning-Upright-Vacuum/dp/B000EY4SIC",
+    "Count": 1,
+    "Spark": "Need",
+    "Location": "bathroom; closet",
+    "Notes": "replace with Dyson stick vacuum"
+  },
+  {
+    "Description": "Dish towels",
+    "Category": "Cleaning",
+    "Model": "At Home Dish Towels",
+    "Link": "http://www.target.com/p/solid-kitchen-towel-room-essentials/-/A-50969076",
+    "Count": 10,
+    "Spark": "Like",
+    "Location": "kitchen; left top tall cabinet",
+    "Notes": "research better replacements"
+  },
+  {
+    "Description": "Dust buster",
+    "Category": "Cleaning",
+    "Model": "Black + Decker CHV1410L",
+    "Link": "https://www.amazon.com/dp/B006LXOJC0/?tag=thesweethome-20&linkCode=xm2&ascsubtag=SH575",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; island",
+    "Notes": ""
+  },
+  {
+    "Description": "Power bank (16,100 mAh)",
+    "Category": "Electronics",
+    "Model": "AmazonBasics Portable Power Bank",
+    "Link": "https://www.amazon.com/gp/product/B00ZQ4JQAA/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "ikea cube",
+    "Notes": ""
+  },
+  {
+    "Description": "Travel keyboard",
+    "Category": "Electronics",
+    "Model": "Logitech Bluetooth Tablet Keyboard",
+    "Link": "https://www.amazon.com/gp/product/B009JPBPWO/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "ikea cube",
+    "Notes": ""
+  },
+  {
+    "Description": "Smartphone",
+    "Category": "Electronics",
+    "Model": "Huawei Nexus 6P, Black (64GB)",
+    "Link": "http://www.bestbuy.com/site/huawei-google-nexus-6p-4g-with-64gb-memory-cell-phone-(unlocked)-gray/4796700.p?id=bb4796700&skuId=4796700",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "desk; right sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Laptop",
+    "Category": "Electronics",
+    "Model": "MSI Ghost Pro-002 GS60 (GTX 870M)",
+    "Link": "http://www.newegg.com/Product/Product.aspx?Item=N82E16834154247&nm_mc=KNC-GoogleAdwords-PC&cm_mmc=KNC-GoogleAdwords-PC-_-pla-_-Gaming+Laptops-_-N82E16834154247&gclid=Cj0KEQjwvve_BRDmg9Kt9ufO15EBEiQAKoc6qvj0qD1kbpaizMQxzk4-HO4rjYoBYxlzeRLBOUuFRPoaAuVj8P8HAQ&gclsrc=aw.ds",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "desk; surface",
+    "Notes": ""
+  },
+  {
+    "Description": "Laptop",
+    "Category": "Electronics",
+    "Model": "Lenovo Thinkpad X201",
+    "Link": "http://tim.id.au/laptops/lenovo/thinkpad%20x200%20x200s%20x200si%20x201%20x201i%20x201s.pdf",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "bedroom; night stand",
+    "Notes": ""
+  },
+  {
+    "Description": "Monitor",
+    "Category": "Electronics",
+    "Model": "Dell 1907FP",
+    "Link": "https://www.amazon.com/Dell-Ultrasharp-1907FP-Panel-Monitor/dp/B0012MBIJ2",
+    "Count": 2,
+    "Spark": "Love",
+    "Location": "desk; surface",
+    "Notes": "replace with larger 4k Dell monitors"
+  },
+  {
+    "Description": "Monitor",
+    "Category": "Electronics",
+    "Model": "Dell U2312HM",
+    "Link": "https://www.amazon.com/Dell-UltraSharp-U2312HM-IPS-Monitor/dp/B005LN1JEC/ref=sr_1_1?s=pc&ie=UTF8&qid=1478872606&sr=1-1&keywords=Dell+U2312HM",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "desk; surface",
+    "Notes": "replace with two more similar sized 4k equivalent Dell monitors"
+  },
+  {
+    "Description": "USB hub",
+    "Category": "Electronics",
+    "Model": "HooToo USB 3.0 Hub, 9-Port (60W)",
+    "Link": "https://www.amazon.com/HooToo-9-Port-Charging-Transfer-iPhone/dp/B00FR795WA/ref=lp_2529574011_1_8?srs=2529574011&ie=UTF8&qid=1476324011&sr=8-8",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "desk; surface",
+    "Notes": ""
+  },
+  {
+    "Description": "Mechanical keyboard",
+    "Category": "Electronics",
+    "Model": "WASD CODE, Cherry MX Clear (87-Key)",
+    "Link": "http://www.wasdkeyboards.com/index.php/products/code-keyboard/code-87-key-mechanical-keyboard.html",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "desk; surface",
+    "Notes": ""
+  },
+  {
+    "Description": "Tablet",
+    "Category": "Electronics",
+    "Model": "Microsoft Surface Pro",
+    "Link": "https://www.amazon.com/Microsoft-Surface-Dual-Core-Certified-Refurbished/dp/B01F2M0L6S/ref=sr_1_3?s=pc&ie=UTF8&qid=1478872636&sr=1-3&keywords=microsoft+surface+pro",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "desk; middle sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Surge protector (6 outlets)",
+    "Category": "Electronics",
+    "Model": "isobar",
+    "Link": "https://www.amazon.com/Tripp-Lite-Protector-INSURANCE-ISOBAR6ULTRA/dp/B0000513US",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Surge protector (8 outlets)",
+    "Category": "Electronics",
+    "Model": "Philips",
+    "Link": "https://www.amazon.com/Philips-SPP5085D-17-Theater-Protector/dp/B0052WJPQG",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; bookshelf",
+    "Notes": ""
+  },
+  {
+    "Description": "Flash drive",
+    "Category": "Electronics",
+    "Model": "Toshiba TransMemory ID (32 GB)",
+    "Link": "https://www.amazon.com/Toshiba-TransMemory-Flash-Drive-32GB/dp/B00NWEBB0E",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "desk; surface",
+    "Notes": "need larger flash drives"
+  },
+  {
+    "Description": "Flat screen",
+    "Category": "Electronics",
+    "Model": "LG 42LD450",
+    "Link": "https://www.amazon.com/LG-42LD450-42-Inch-1080p-Model/dp/B0039RRC7U",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; wall",
+    "Notes": ""
+  },
+  {
+    "Description": "Corded mouse",
+    "Category": "Electronics",
+    "Model": "Logitech G600",
+    "Link": "https://www.amazon.com/Logitech-G600-Gaming-Mouse-Black/dp/B0086UK7IQ",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "desk; surface",
+    "Notes": ""
+  },
+  {
+    "Description": "Deck coffins (pair)",
+    "Category": "Electronics",
+    "Model": "Odyssey FZCDJBL",
+    "Link": "http://www.guitarcenter.com/Odyssey/FZCDJBL-ATA-Black-Label-Coffin-for-CD-Players-1274115053729.gc",
+    "Count": 2,
+    "Spark": "Like",
+    "Location": "bathroom; closet",
+    "Notes": ""
+  },
+  {
+    "Description": "Cat tower",
+    "Category": "Furniture",
+    "Model": "The Refined Feline Lotus, Espresso",
+    "Link": "https://www.amazon.com/gp/product/B004BA6LSK/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "living room; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Coffee table",
+    "Category": "Furniture",
+    "Model": "generic",
+    "Link": "http://www.weirsfurniture.com/",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "living room; floor",
+    "Notes": "would like a nicer and more elegant or minimal solution"
+  },
+  {
+    "Description": "Sofa",
+    "Category": "Furniture",
+    "Model": "EQ3 Stella Sofa, Polo Slate",
+    "Link": "https://www.nfm.com/DetailsPage.aspx?productid=41680463",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "living room; floor",
+    "Notes": "small damage to front left foot"
+  },
+  {
+    "Description": "Bar stools (pair)",
+    "Category": "Furniture",
+    "Model": "generic",
+    "Link": "http://www.weirsfurniture.com/",
+    "Count": 2,
+    "Spark": "Lose",
+    "Location": "living room; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Desk",
+    "Category": "Furniture",
+    "Model": "generic",
+    "Link": "http://www.weirsfurniture.com/",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "living room; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Shelving containers",
+    "Category": "Furniture",
+    "Model": "Ikea Drona Box",
+    "Link": "http://www.ikea.com/us/en/catalog/products/10300319/",
+    "Count": 4,
+    "Spark": "Lose",
+    "Location": "living room; bookshelf",
+    "Notes": ""
+  },
+  {
+    "Description": "Shelving unit",
+    "Category": "Furniture",
+    "Model": "Ikea Kallax Shelving Unit",
+    "Link": "http://www.ikea.com/us/en/catalog/products/S99017186/",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "living room; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Task chair",
+    "Category": "Furniture",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "living room; floor",
+    "Notes": "replace with ergonomic office chair"
+  },
+  {
+    "Description": "Mattress (california king)",
+    "Category": "Furniture",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "bedroom; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Night stand",
+    "Category": "Furniture",
+    "Model": "generic",
+    "Link": "http://walmart.com",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "bedroom; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Outdoor table",
+    "Category": "Furniture",
+    "Model": "Ikea Tarno Table",
+    "Link": "http://www.ikea.com/us/en/catalog/products/S69898415/",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "patio; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Outdoor chairs (pair)",
+    "Category": "Furniture",
+    "Model": "Ikea Tarno Chairs",
+    "Link": "http://www.ikea.com/us/en/catalog/products/S69898415/",
+    "Count": 2,
+    "Spark": "Lose",
+    "Location": "patio; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Air popper",
+    "Category": "Kitchen",
+    "Model": "Cuisinart EasyPop CPM-100W, White",
+    "Link": "https://www.amazon.com/gp/product/B005RRBGIQ/ref=oh_aui_detailpage_o02_s00?ie=UTF8&th=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; counter",
+    "Notes": ""
+  },
+  {
+    "Description": "Spatula",
+    "Category": "Kitchen",
+    "Model": "Victorinox Slotted Fish Turner, Walnut",
+    "Link": "https://www.amazon.com/gp/product/B000931ENU/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; bamboo cylindrical holder",
+    "Notes": ""
+  },
+  {
+    "Description": "Knife sharpener",
+    "Category": "Kitchen",
+    "Model": "Chef's Choice 4643 ProntoPro",
+    "Link": "https://www.amazon.com/gp/product/B007IVBET0/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; right top far cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Pitcher",
+    "Category": "Kitchen",
+    "Model": "PUR LED (11 cups)",
+    "Link": "https://www.amazon.com/gp/product/B00IK5A68I/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "refrigerator",
+    "Notes": ""
+  },
+  {
+    "Description": "Shears",
+    "Category": "Kitchen",
+    "Model": "Kai 5210",
+    "Link": "https://www.amazon.com/gp/product/B004MN72VG/ref=oh_aui_detailpage_o03_s01?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; bamboo cylindrical holder",
+    "Notes": ""
+  },
+  {
+    "Description": "Saucepan with cover (2-quart)",
+    "Category": "Kitchen",
+    "Model": "Cuisinart MCP19-18N",
+    "Link": "https://www.amazon.com/gp/product/B009P483I8/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; left bottom close cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Oven mitt",
+    "Category": "Kitchen",
+    "Model": "Cuisinart HU18755",
+    "Link": "https://www.amazon.com/gp/product/B016S5E4RA/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; above microwave cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Produce bags",
+    "Category": "Kitchen",
+    "Model": "flip & tumble",
+    "Link": "https://www.amazon.com/gp/product/B002UXQ7QQ/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1",
+    "Count": 6,
+    "Spark": "Love",
+    "Location": "kitchen; left top far cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Grocery bags",
+    "Category": "Kitchen",
+    "Model": "various",
+    "Link": "",
+    "Count": 6,
+    "Spark": "Like",
+    "Location": "kitchen; left top far cabinet",
+    "Notes": "would like to replace with 1-3 very nice bags or baskets"
+  },
+  {
+    "Description": "Measuring cup (2-cup)",
+    "Category": "Kitchen",
+    "Model": "Pyrex Prepware, Glass",
+    "Link": "https://www.amazon.com/gp/product/B0002ITQHS/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; left top far cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Measuring cup (1-cup)",
+    "Category": "Kitchen",
+    "Model": "Pyrex Prepware, Glass",
+    "Link": "https://www.amazon.com/gp/product/B0000CFMZN/ref=oh_aui_detailpage_o03_s00?ie=UTF8&th=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; left top far cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Kichen storgae containers (set)",
+    "Category": "Kitchen",
+    "Model": "GlassLock Oven Safe (18 pieces)",
+    "Link": "https://www.amazon.com/gp/product/B00LN810PM/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; left top far cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Straws",
+    "Category": "Kitchen",
+    "Model": "Decodyne Stainless Steel Drinking Straws",
+    "Link": "https://www.amazon.com/gp/product/B00O92HN3C/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; right sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Cutting board",
+    "Category": "Kitchen",
+    "Model": "John Boos Chop-N-Slice, Maple (20 x 15 x 1.25 Inches)",
+    "Link": "https://www.amazon.com/gp/product/B00063QBFE/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; island",
+    "Notes": ""
+  },
+  {
+    "Description": "Can opener",
+    "Category": "Kitchen",
+    "Model": "ZYLISS  \"Safe Edge",
+    "Link": "https://www.amazon.com/Zyliss-Smooth-Safety-Opener-White/dp/B000UERTYQ/ref=sr_1_2?s=kitchen&ie=UTF8&qid=1476406989&sr=1-2&keywords=zyliss+can+opener",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; right sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Measuring spoons",
+    "Category": "Kitchen",
+    "Model": "generic",
+    "Link": "",
+    "Count": 7,
+    "Spark": "Need",
+    "Location": "kitchen; right sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Measuring cups",
+    "Category": "Kitchen",
+    "Model": "generic",
+    "Link": "",
+    "Count": 4,
+    "Spark": "Need",
+    "Location": "kitchen; right sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Zester",
+    "Category": "Kitchen",
+    "Model": "Microplane 40020 Classic",
+    "Link": "https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "kitchen; right sliding drawer",
+    "Notes": "could use a better one or similar in better condition"
+  },
+  {
+    "Description": "Mixing bowls",
+    "Category": "Kitchen",
+    "Model": "Pyrex Mixing Bowl Set, Glass (2 pieces)",
+    "Link": "https://www.amazon.com/Pyrex-Prepware-3-Piece-Glass-Mixing/dp/B00LGLHUA0/ref=lp_2599218011_1_7?srs=2599218011&ie=UTF8&qid=1476407085&sr=8-7",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; left top middle cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Flatware (set)",
+    "Category": "Kitchen",
+    "Model": "Ikea Fornuft (20 pieces)",
+    "Link": "http://www.ikea.com/us/en/catalog/products/90043076/",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; left top middle cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Dinnerware (set)",
+    "Category": "Kitchen",
+    "Model": "Ikea Fargrik (18 pieces)",
+    "Link": "http://www.ikea.com/us/en/catalog/products/90131657/",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; left top middle cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Serving bowl",
+    "Category": "Kitchen",
+    "Model": "Ikea Myndig",
+    "Link": "http://www.ikea.com/us/en/catalog/products/80192929/",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; left top middle cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Chef's knife",
+    "Category": "Kitchen",
+    "Model": "Wusthof 8-Inch Cook's Knife",
+    "Link": "https://www.amazon.com/Wusthof-Classic-8-Inch-Cooks-Knife/dp/B00009ZK08/ref=sr_1_1?s=kitchen&srs=3067346011&ie=UTF8&qid=1476407588&sr=1-1&th=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; bamboo cylindrical holder",
+    "Notes": ""
+  },
+  {
+    "Description": "Paring knife",
+    "Category": "Kitchen",
+    "Model": "Wusthof Paring Knife",
+    "Link": "https://www.amazon.com/W%C3%BCsthof-Classic-Paring-Knife/dp/B00009YB1O/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1476407673&sr=1-1&keywords=wusthof+paring+knife",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; left close sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Pastry brush",
+    "Category": "Kitchen",
+    "Model": "Fiestaware Silicone, Teal",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "kitchen; bamboo cylindrical holder",
+    "Notes": ""
+  },
+  {
+    "Description": "Mandoline slicer",
+    "Category": "Kitchen",
+    "Model": "OXO Good Grips",
+    "Link": "https://www.amazon.com/OXO-Good-Grips-Mandoline-Slicer/dp/B0000DAQ8B",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "kitchen; left middle sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Placemats (pair)",
+    "Category": "Kitchen",
+    "Model": "Ikea Toga",
+    "Link": "http://www.ikea.com/us/en/catalog/products/40165471/",
+    "Count": 2,
+    "Spark": "Like",
+    "Location": "kitchen; left far sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Weight (10 pounds)",
+    "Category": "Kitchen",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "kitchen; left middle sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Clothespins",
+    "Category": "Kitchen",
+    "Model": "generic",
+    "Link": "",
+    "Count": 7,
+    "Spark": "Lose",
+    "Location": "kitchen; right sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Soap dispenser",
+    "Category": "Kitchen",
+    "Model": "Ikea Bestaende",
+    "Link": "http://www.ikea.com/us/en/catalog/products/80233963/",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitcken; island",
+    "Notes": ""
+  },
+  {
+    "Description": "Tumbler",
+    "Category": "Kitchen",
+    "Model": "Klean Kanteen Vacuum Insulated (16 ounces)",
+    "Link": "https://www.amazon.com/gp/product/B00BIUB8KM/ref=s9_acsd_al_bw_c_x_3",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; left top middle cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Pint glass",
+    "Category": "Kitchen",
+    "Model": "generic",
+    "Link": "",
+    "Count": 3,
+    "Spark": "Like",
+    "Location": "kitchen; left top middle cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Tulip glass",
+    "Category": "Kitchen",
+    "Model": "generic",
+    "Link": "",
+    "Count": 2,
+    "Spark": "Like",
+    "Location": "kitchen; left top middle cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Serving bowl (small)",
+    "Category": "Kitchen",
+    "Model": "Ikea Blanda Blank",
+    "Link": "http://www.ikea.com/us/en/catalog/products/20057255/",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; left top middle cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Serving bowl (large)",
+    "Category": "Kitchen",
+    "Model": "Ikea Blanda Blank",
+    "Link": "http://www.ikea.com/us/en/catalog/products/50057254/",
+    "Count": 2,
+    "Spark": "Love",
+    "Location": "kitchen; left top middle cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Shotglass",
+    "Category": "Kitchen",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "kitchen; left top middle cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Ash tray",
+    "Category": "Kitchen",
+    "Model": "Ikea Vasnas Tealight Holder",
+    "Link": "http://www.ikea.com/us/en/catalog/products/60259096/",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "kitchen; left top middle cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Flask (6 ounces)",
+    "Category": "Kitchen",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "kitchen; left top middle cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Colander",
+    "Category": "Kitchen",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "kitchen; left top middle cabinet",
+    "Notes": "replace with nice stainless steel strainer"
+  },
+  {
+    "Description": "Prep bowls",
+    "Category": "Kitchen",
+    "Model": "generic",
+    "Link": "",
+    "Count": 3,
+    "Spark": "Like",
+    "Location": "kitchen; left top middle cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Waterproof containers",
+    "Category": "Miscellaneous",
+    "Model": "Outdoor Products",
+    "Link": "",
+    "Count": 2,
+    "Spark": "Need",
+    "Location": "bathroom; top sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Mousepad",
+    "Category": "Miscellaneous",
+    "Model": "Lextra MouseRug",
+    "Link": "https://www.amazon.com/gp/product/B000XB28OM/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1",
+    "Count": 2,
+    "Spark": "Love",
+    "Location": "desk; surface",
+    "Notes": ""
+  },
+  {
+    "Description": "Coasters",
+    "Category": "Miscellaneous",
+    "Model": "Lextra CoasterRug",
+    "Link": "https://www.amazon.com/gp/product/B000PJYM3M/ref=s9_acsd_hps_bw_c_x_2",
+    "Count": 4,
+    "Spark": "Love",
+    "Location": "desk; right sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Hangers",
+    "Category": "Miscellaneous",
+    "Model": "Proman Products KSA9030",
+    "Link": "https://www.amazon.com/gp/product/B000OSJMSE/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "living room; closet",
+    "Notes": ""
+  },
+  {
+    "Description": "Bike lock",
+    "Category": "Miscellaneous",
+    "Model": "Kryptonite Kryptolok Series 2",
+    "Link": "https://www.amazon.com/gp/product/B005YPK8G2/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "desk; middle sliding drawer",
+    "Notes": "need replacement holder for bike frame"
+  },
+  {
+    "Description": "Bike hanger",
+    "Category": "Miscellaneous",
+    "Model": "Racor B-1R Solo",
+    "Link": "https://www.amazon.com/gp/product/B0009I8ANM/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "living room; wall",
+    "Notes": ""
+  },
+  {
+    "Description": "Throw",
+    "Category": "Miscellaneous",
+    "Model": "Chanasya Blanket, Gray",
+    "Link": "https://www.amazon.com/gp/product/B0157DLTB8/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "living room; couch",
+    "Notes": "a bigger equivalent throw would be ideal"
+  },
+  {
+    "Description": "TV mount",
+    "Category": "Miscellaneous",
+    "Model": "VideoSecu ML531BE",
+    "Link": "https://www.amazon.com/gp/product/B000WYVBR0/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "living room; wall",
+    "Notes": ""
+  },
+  {
+    "Description": "Heater",
+    "Category": "Miscellaneous",
+    "Model": "Lasko 754200",
+    "Link": "https://www.amazon.com/gp/product/B000TKDQ5C/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "bathroom; closet",
+    "Notes": ""
+  },
+  {
+    "Description": "Fan",
+    "Category": "Miscellaneous",
+    "Model": "Vornado 660",
+    "Link": "https://www.amazon.com/gp/product/B0025QKUE8/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "bathroom; closet",
+    "Notes": ""
+  },
+  {
+    "Description": "Keys",
+    "Category": "Miscellaneous",
+    "Model": "various",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Need",
+    "Location": "desk; right sliding drawer",
+    "Notes": "car, home, gate, mail, bike"
+  },
+  {
+    "Description": "Wallet",
+    "Category": "Miscellaneous",
+    "Model": "rag&bone",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "desk; right sliding drawer",
+    "Notes": "replace with something even more minimal"
+  },
+  {
+    "Description": "Lighter",
+    "Category": "Miscellaneous",
+    "Model": "Bic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "desk; right sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Curtain rings",
+    "Category": "Miscellaneous",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "shower",
+    "Notes": ""
+  },
+  {
+    "Description": "Curtain",
+    "Category": "Miscellaneous",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "shower",
+    "Notes": ""
+  },
+  {
+    "Description": "Backpack",
+    "Category": "Miscellaneous",
+    "Model": "Booq Cobra Squeeze CSQ-GRY",
+    "Link": "https://www.booqbags.com/products/cobra-squeeze-15-inch-laptop-backpack",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "living room; couch",
+    "Notes": ""
+  },
+  {
+    "Description": "Floor pump",
+    "Category": "Miscellaneous",
+    "Model": "Bontrager Turbo Charger HP, Red",
+    "Link": "http://www.trekbikes.com/us/en_US/equipment/cycling-accessories/bike-pumps/bontrager-turbo-charger-hp-floor-pump/p/11843/",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "bedroom; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Road bike",
+    "Category": "Miscellaneous",
+    "Model": "Shogun",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; wall",
+    "Notes": "looking to replace with Trek FX"
+  },
+  {
+    "Description": "Travel pump",
+    "Category": "Miscellaneous",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Need",
+    "Location": "kitchen; left top tall cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Litter box",
+    "Category": "Miscellaneous",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; floor",
+    "Notes": "replace with something better"
+  },
+  {
+    "Description": "Bedsheets, california king (set)",
+    "Category": "Miscellaneous",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "bedroom; mattress",
+    "Notes": ""
+  },
+  {
+    "Description": "Bath mats",
+    "Category": "Miscellaneous",
+    "Model": "generic",
+    "Link": "",
+    "Count": 2,
+    "Spark": "Like",
+    "Location": "bathroom; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Razor",
+    "Category": "Personal Care",
+    "Model": "Harry's The Truman",
+    "Link": "https://www.harrys.com/products/the-winston?h_id=486&h_position=0&h_list=grooming-supplies",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "bathroom; plastic carrier",
+    "Notes": ""
+  },
+  {
+    "Description": "Nail scissors",
+    "Category": "Personal Care",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "bathroom; plastic carrier",
+    "Notes": ""
+  },
+  {
+    "Description": "Plastic Carrier",
+    "Category": "Personal Care",
+    "Model": "The Container Store",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "bathroom; counter",
+    "Notes": ""
+  },
+  {
+    "Description": "Bath towels",
+    "Category": "Personal Care",
+    "Model": "various",
+    "Link": "",
+    "Count": 5,
+    "Spark": "Lose",
+    "Location": "bathroom; laundry cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Body tape measure",
+    "Category": "Personal Care",
+    "Model": "Perfect Measuring Tape Company (80 inches)",
+    "Link": "https://www.amazon.com/gp/product/B00DEGIVVW/ref=oh_aui_detailpage_o01_s00?ie=UTF8&th=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "desk; right sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Scale",
+    "Category": "Personal Care",
+    "Model": "Withings WS-50, Black",
+    "Link": "https://www.amazon.com/gp/product/B00BKRQ4E8/ref=oh_aui_detailpage_o02_s00?ie=UTF8&th=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "living room; floor",
+    "Notes": ""
+  },
+  {
+    "Description": "Electric toothbrush",
+    "Category": "Personal Care",
+    "Model": "Oral-B Pro 1000, Black",
+    "Link": "https://www.amazon.com/gp/product/B01AKGRTUM/ref=oh_aui_detailpage_o07_s00?ie=UTF8&th=1",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "bathroom; counter",
+    "Notes": ""
+  },
+  {
+    "Description": "Cardiac transmitter",
+    "Category": "Personal Care",
+    "Model": "St. Jude Medical Merlin@home EX1150",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Need",
+    "Location": "bathroom; closet",
+    "Notes": ""
+  },
+  {
+    "Description": "Cat brush",
+    "Category": "Pets",
+    "Model": "Chirpy Pets",
+    "Link": "https://www.amazon.com/gp/product/B0178VW3PS/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1",
+    "Count": 1,
+    "Spark": "Need",
+    "Location": "kitchen; left top tall cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Pliers, reversible",
+    "Category": "Tools",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "kitchen; left top tall cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Stud finder",
+    "Category": "Tools",
+    "Model": "Zircon, Stud Sensor HD25",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "kitchen; left top tall cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Tape measure",
+    "Category": "Tools",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "kitchen; left top tall cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Pliers, monkey",
+    "Category": "Tools",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "kitchen; left top tall cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Screwdriver, phillips head",
+    "Category": "Tools",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "kitchen; left top tall cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Level",
+    "Category": "Tools",
+    "Model": "generic",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "kitchen; left top tall cabinet",
+    "Notes": ""
+  },
+  {
+    "Description": "Sunglasses",
+    "Category": "Wardrobe",
+    "Model": "Warby Parker Eastman, Belize Blue",
+    "Link": "https://ca.warbyparker.com/sunglasses/men/eastman/belize-blue",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "desk; right sliding drawer",
+    "Notes": ""
+  },
+  {
+    "Description": "Rain jacket (medium)",
+    "Category": "Wardrobe",
+    "Model": "The North Face Venture, Mid Grey Heather",
+    "Link": "https://www.rei.com/product/863106/the-north-face-venture-rain-jacket-mens",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "living room; closet",
+    "Notes": ""
+  },
+  {
+    "Description": "Sweater (extra large)",
+    "Category": "Wardrobe",
+    "Model": "Forever 21",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; closet",
+    "Notes": "grey"
+  },
+  {
+    "Description": "Sweater (extra large)",
+    "Category": "Wardrobe",
+    "Model": "Forever 21",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; closet",
+    "Notes": "vintage, navy blue and red"
+  },
+  {
+    "Description": "Button-down shirt (extra large)",
+    "Category": "Wardrobe",
+    "Model": "Forever 21",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "living room; closet",
+    "Notes": "starry, navy blue"
+  },
+  {
+    "Description": "T-shirt (extra large)",
+    "Category": "Wardrobe",
+    "Model": "H&M",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "living room; closet",
+    "Notes": "deep v, dark grey"
+  },
+  {
+    "Description": "Hoodie (large)",
+    "Category": "Wardrobe",
+    "Model": "H&M",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; closet",
+    "Notes": "navy blue, white pinstripes"
+  },
+  {
+    "Description": "T-shirt (extra large)",
+    "Category": "Wardrobe",
+    "Model": "H&M",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; closet",
+    "Notes": "v-neck, black"
+  },
+  {
+    "Description": "T-shirt (large)",
+    "Category": "Wardrobe",
+    "Model": "anvil",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "living room; closet",
+    "Notes": "crewneck, magic 8-ball print, black"
+  },
+  {
+    "Description": "T-shirt (large)",
+    "Category": "Wardrobe",
+    "Model": "Forever 21",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; closet",
+    "Notes": "v-neck, grey with white stripes"
+  },
+  {
+    "Description": "T-shirt (extra large)",
+    "Category": "Wardrobe",
+    "Model": "H&M",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; closet",
+    "Notes": "geometric print, crewneck, tan"
+  },
+  {
+    "Description": "T-shirt (extra large)",
+    "Category": "Wardrobe",
+    "Model": "Forever 21",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; closet",
+    "Notes": "crewneck, tribal, dark grey"
+  },
+  {
+    "Description": "Sweatshirt (extra large)",
+    "Category": "Wardrobe",
+    "Model": "Forever 21",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; closet",
+    "Notes": "tribal paints"
+  },
+  {
+    "Description": "Shirt (large)",
+    "Category": "Wardrobe",
+    "Model": "H&M",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; closet",
+    "Notes": "v-neck, zipper pocket, heathered green"
+  },
+  {
+    "Description": "Peacoat (extra large)",
+    "Category": "Wardrobe",
+    "Model": "Claiborne",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "living room; closet",
+    "Notes": "navy blue"
+  },
+  {
+    "Description": "Button-down shirt (extra large)",
+    "Category": "Wardrobe",
+    "Model": "H&M",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "living room; closet",
+    "Notes": "denim blue, white polkadots"
+  },
+  {
+    "Description": "Long sleeve shirt (extra large)",
+    "Category": "Wardrobe",
+    "Model": "H&M",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "living room; closet",
+    "Notes": "navy blue, white polkadots"
+  },
+  {
+    "Description": "T-shirt (extra large)",
+    "Category": "Wardrobe",
+    "Model": "H&M",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "living room; closet",
+    "Notes": "v-neck, slate gray"
+  },
+  {
+    "Description": "T-shirt (extra large)",
+    "Category": "Wardrobe",
+    "Model": "H&M",
+    "Link": "",
+    "Count": 1,
+    "Spark": "Lose",
+    "Location": "living room; closet",
+    "Notes": "v-neck, gray"
+  },
+  {
+    "Description": "Shoes (pair)",
+    "Category": "Wardrobe",
+    "Model": "Asics Onitsuka Tiger Ultimate 81",
+    "Link": "https://www.amazon.com/dp/B00L8JY9ZO/ref=nav_timeline_asin?_encoding=UTF8&th=1&psc=1",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; closet",
+    "Notes": ""
+  },
+  {
+    "Description": "Flip flops (pair)",
+    "Category": "Wardrobe",
+    "Model": "Feelgoodz",
+    "Link": "https://www.amazon.com/Feelgoodz-Classicz-Natural-Rubber-W10-11/dp/B00VWK0WE6/ref=sr_1_1?s=apparel&srs=9522270011&ie=UTF8&qid=1478881398&sr=1-1&nodeID=679320011&th=1&psc=1",
+    "Count": 1,
+    "Spark": "Like",
+    "Location": "living room; closet",
+    "Notes": ""
+  },
+  {
+    "Description": "Shirt (medium)",
+    "Category": "Wardrobe",
+    "Model": "UO Stevens Cross-Dyed",
+    "Link": "http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=39390299&category=M_TOPS_SHIRTS&color=041",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "living room; closet",
+    "Notes": "first medium I purchased after losing weight in 2016"
+  },
+  {
+    "Description": "T-shirt (medium)",
+    "Category": "Wardrobe",
+    "Model": "H&M Jersey",
+    "Link": "http://www.hm.com/us/product/57576?article=57576-C",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "living room; closet",
+    "Notes": ""
+  },
+  {
+    "Description": "T-shirt (medium)",
+    "Category": "Wardrobe",
+    "Model": "H&M Stretch",
+    "Link": "http://www.hm.com/us/product/85961?article=85961-E",
+    "Count": 1,
+    "Spark": "Love",
+    "Location": "living room; closet",
+    "Notes": ""
+  }
+]

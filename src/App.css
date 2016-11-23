@@ -110,6 +110,10 @@ input[type=text]:focus, textarea:focus {
   
 }
 
+.CardsList {
+  
+}
+
 .ItemDetail {
   position: relative;
   text-align: left;

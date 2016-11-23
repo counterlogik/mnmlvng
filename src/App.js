@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
 import './ionicons.css';
+import axios from 'axios';
 import shirtPicture from './img/uo_stevens_shirt.jpg';
-//import shirtData from './mnmlvng.json';
 
 // Load item data from this object. This object loading will be replaced by data pulled from a persistent database eventually.
 const shirtData = {
@@ -53,6 +53,37 @@ class PrefixIcon extends Component {
     render() {
       return <div className="PrefixIcon"><i className={'icon ion-'+this.props.icon} /> </div>;
     }
+}
+
+class CardsList extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      inventoryItems: []
+    };
+  }
+
+  componentDidMount() {
+    var _this = this;
+    this.serverRequest =
+      axios
+        .get('./mnmlvng.json')
+        .then(function(result) {
+          _this.setState({
+            inventoryItems: result.data
+          });
+        })
+  }
+
+  componentWillUnmount() {
+    this.serverRequest.abort();
+  }
+
+  render() {
+    return <div className="CardsList">
+      <span>Cards List view goes here. CardsList component holds the overall state of all inventory items.</span>
+    </div>
+  }
 }
 
 class ItemCard extends Component {
@@ -182,7 +213,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <ItemCard details={shirtData} />
+        {/*<ItemCard details={shirtData} />*/}
+        <CardsList />
       </div>
     );
   }
