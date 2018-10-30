@@ -1,0 +1,1 @@
+This is a react-driven web app to manage my minimalist lifestyle. I am starting with the inventory side of the app to catalog and update a detailed list of all my physical possesions and expanding down the road to providing analytics on those items as well as other useful tools for minimal living. 'mnmlvng' is a lame "hacker-speak" rendition of 'minimal living'.
